@@ -11,6 +11,7 @@
 		E5B120C52BADFD5B0078AF18 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B120C42BADFD5B0078AF18 /* ContentView.swift */; };
 		E5B120C72BADFD5D0078AF18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5B120C62BADFD5D0078AF18 /* Assets.xcassets */; };
 		E5B120CA2BADFD5D0078AF18 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5B120C92BADFD5D0078AF18 /* Preview Assets.xcassets */; };
+		E5B120D12BAE02D80078AF18 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B120D02BAE02D80078AF18 /* LandingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E5B120C42BADFD5B0078AF18 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E5B120C62BADFD5D0078AF18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5B120C92BADFD5D0078AF18 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E5B120D02BAE02D80078AF18 /* LandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E5B120C22BADFD5B0078AF18 /* DartsApp.swift */,
 				E5B120C42BADFD5B0078AF18 /* ContentView.swift */,
+				E5B120D02BAE02D80078AF18 /* LandingView.swift */,
 				E5B120C62BADFD5D0078AF18 /* Assets.xcassets */,
 				E5B120C82BADFD5D0078AF18 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5B120D12BAE02D80078AF18 /* LandingView.swift in Sources */,
 				E5B120C52BADFD5B0078AF18 /* ContentView.swift in Sources */,
 				E5B120C32BADFD5B0078AF18 /* DartsApp.swift in Sources */,
 			);
